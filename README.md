@@ -1,0 +1,2 @@
+# .github
+john xenon manifesto
